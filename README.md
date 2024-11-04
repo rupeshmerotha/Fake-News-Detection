@@ -1,1 +1,2 @@
 # Fake-News-Detection
+This project leverages machine learning to detect fake news by analyzing textual features. Using a dataset of news articles, the model identifies patterns to classify articles as "real" or "fake." The solution applies natural language processing techniques and employs a classification algorithm to improve accuracy. This project aims to help users distinguish between credible and false information in digital media.
